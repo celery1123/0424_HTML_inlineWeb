@@ -16,17 +16,7 @@ header{
 }
 
 main{
-    margin-top: 90px;
-}
-
-footer{
-    background-color: #252932;
-    padding: 60px 150px;
-    color: #ffffff;
-}
-
-footer img{
-    margin-bottom: 30px;
+    margin: 120px auto auto auto;
 }
 
 footer{
@@ -411,4 +401,99 @@ form button{
 
 .sec_2{
     width: 50%;
+}
+.footer_end {
+    height: 59.2px;
+    background-color: #191c23;
+    display: flex;
+    padding: 0 150px;
+    justify-content: space-between;
+}
+
+.footer_start {
+    background-color: #252932;
+    padding: 0 150px;
+    color: #ffffff;
+}
+
+.footer_left {
+    display: flex;
+    color: #9EA6B7;
+    align-items: center;
+}
+
+.footer_right {
+    display: flex;
+    color: #9EA6B7;
+    align-items: center;
+}
+
+.footer_right img {
+    width: 40px;
+    height: 40px;
+    fill: #9ea6b7;
+}
+
+.footer_start img {
+    padding-top: 60px;
+}
+
+.rest_button {
+    padding: 20px;
+    border-bottom: 1px solid rgb(206, 206, 207);
+    display: flex;
+    justify-content: center;
+}
+
+.page_1_1 {
+    width: 149.6px;
+    height: 119.67px;
+    border: 2px solid black;
+    background-color: rgb(233, 237, 237);
+    text-align: center;
+    line-height: 119.6px;
+}
+
+.page {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0 260px;
+}
+
+.parnet_page1 {
+    display: block;
+}
+
+.parnet_page2 {
+    display: none;
+}
+
+.parnet_page3 {
+    display: none;
+}
+
+.parnet_page4 {
+    display: none;
+}
+
+.parnet_page5 {
+    display: none;
+}
+
+.parnet_page6 {
+    display: none;
+}
+
+.button_res {
+    cursor: pointer;
+    padding: 20px;
+    border-bottom: 1px solid gray;
+}
+
+.button_res_act {
+    cursor: pointer;
+    padding: 20px;
+    border-bottom: 4px solid #ff6E06;
 }
