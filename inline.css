@@ -95,7 +95,7 @@ form{
 }
 
 .main_sec_1{
-    background-image: url(../image/New-official-website_v2_首圖.png);
+    background-image: url(/0424_homework/image/New-official-website_v2_首圖.png);
     background-position: 50% 50%;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -162,14 +162,14 @@ form{
 }
 
 .main_sec_3_1{
-    background-image: url(../image/New-official-website_v2_hp_background1.png);
+    background-image: url(/0424_homework/image/New-official-website_v2_hp_background1.png);
     background-position: top;
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .main_sec_3_2{
-    background-image: url(../image/New-official-website_v2_hp_background2.png);
+    background-image: url(/0424_homework/image/New-official-website_v2_hp_background2.png);
     background-position: top;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -288,7 +288,7 @@ form{
 
 .table{
     text-align: center;
-    background-image: url(../image/New-official-website_v2_hp_background2.png);
+    background-image: url(/0424_homework/image/New-official-website_v2_hp_background2.png);
     background-position: top;
     background-repeat: no-repeat;
     background-size: 100%;
