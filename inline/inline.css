@@ -76,6 +76,23 @@ form{
     padding-bottom: 50px;
 }
 
+.inline_button {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 48px;
+    height: 48px;
+    transition: transform 100ms linear, opacity 80ms linear;
+    background-color: #EC6337;
+    border-radius: 200px;
+    cursor: pointer;
+    padding-left: 12px;
+}
+
+.inline_button img {
+    width: 24px;
+    height: 24px;
+}
 .link_class{
     padding: 0 20px;
     background-color: #ffffff;
