@@ -79,7 +79,7 @@ form{
 .inline_button {
     position: fixed;
     bottom: 20px;
-        right: 20px;
+    right: 20px;
     width: 48px;
     height: 48px;
     transition: transform 100ms linear, opacity 80ms linear;
